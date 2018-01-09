@@ -1,13 +1,3 @@
-/*
-Dieses Material steht unter der Creative-Commons-Lizenz Namensnennung
-Weitergabe unter gleichen Bedingungen 4.0 International.
-Um eine Kopie dieser Lizenz zu sehen, besuchen Sie http://creativecommons.org/licenses/by-sa/4.0/
-
-Titel: AstroGD Rich Presence Tool
-Name / Bezeichnung des Rechteinhabers des Werkes: AstroGD
-Zugeschriebene URL: http://www.astrogd.de
-*/
-
 //Setup
 const {Client} = require('discord-rpc'),
 log = require('fancy-log'),
