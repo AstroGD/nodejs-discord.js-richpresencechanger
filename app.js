@@ -9,6 +9,7 @@ presences = require(`${__dirname}/presences.json`);
 var ersterstatus = settings.initialstate;
 var Clientid = settings.clientid;
 var startuppresence = settings.presenceonstartup;
+var resettimerwhenstatechanges = options.resettimerwhenstatechanges;
 
 //Code
 var availablecommands = Object.entries(presences);
@@ -31,7 +32,7 @@ function changepresence(command) {
     args = command.split(" ").slice(1).join(" ");
   }
   var newstamp = oldstamp;
-  if (oldstamp === undefined || (command.split(" ")[0].toLowerCase() !== currpresence && command.split(" ")[0].toLowerCase() !== "setstate")) {
+  if (oldstamp === undefined || (command.split(" ")[0].toLowerCase() !== currpresence && command.split(" ")[0].toLowerCase() !== "setstate") || resettimerwhenstatechanges) {
     newstamp = new Date();
     oldstamp = newstamp;
   }
