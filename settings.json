@@ -1,5 +1,6 @@
 {
   "initialstate": "spielt mit den Tasten...",
   "clientid": "ENTER CLIENT ID",
-  "presenceonstartup": "on"
+  "presenceonstartup": "on",
+  "resettimerwhenstatechanges": false
 }
