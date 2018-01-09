@@ -9,7 +9,7 @@ presences = require(`${__dirname}/presences.json`);
 var ersterstatus = settings.initialstate;
 var Clientid = settings.clientid;
 var startuppresence = settings.presenceonstartup;
-var resettimerwhenstatechanges = options.resettimerwhenstatechanges;
+var resettimerwhenstatechanges = settings.resettimerwhenstatechanges;
 
 //Code
 var availablecommands = Object.entries(presences);
