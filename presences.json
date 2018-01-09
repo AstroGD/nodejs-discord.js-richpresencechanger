@@ -1,0 +1,16 @@
+{
+  "on":{
+    "details": "Online!",
+    "largeImageKey": "example_name_large",
+    "smallImageKey": "example_name_small",
+    "smallImageText": "Small Image Text",
+    "largeImageText": "Large Image Text"
+  },
+  "off":{
+    "details": "Abwesend :(",
+    "largeImageKey": "astrogd_away",
+    "smallImageKey": "small",
+    "smallImageText": "Der Stammtisch Team Mitglied\nDiscord.gg/st",
+    "largeImageText": "Leider bin ich gerade beschäftigt. Bitte schreibe mir eine DM, wenn du was brauchst ^^"
+  }
+}
