@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-discord.js-richpresencechanger",
+  "version": "1.1.1",
+  "description": "Lässt dich entscheiden, welche Spiele du in Discord spielen willst",
+  "main": "app.js",
+  "dependencies": {
+    "discord-rpc": "^3.0.0-beta.8",
+    "fancy-log": "^1.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AstroGD",
+  "license": "AGPL-3.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AstroGD/nodejs-discord.js-richpresencechanger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AstroGD/nodejs-discord.js-richpresencechanger/issues"
+  },
+  "homepage": "https://github.com/AstroGD/nodejs-discord.js-richpresencechanger#readme"
+}
