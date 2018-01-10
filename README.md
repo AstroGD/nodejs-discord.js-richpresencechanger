@@ -7,11 +7,12 @@ Um zu starten, gehe bitte zum [wiki](https://github.com/AstroGD/nodejs-discord.j
 
 ## Hast du Fragen?
 Schreibe mir eine Mail an support@astrogd.de
-[Mail schreiben](mailto:support@astrogd.de)
 
 ## Willst du direkt mit mir reden?
 Joine meinem Discord Server
+
 [Joinen](https://discord.me/astrogd)
 
 ## Bugs oder FEhler gefunden?
+
 [Erstelle einen Bugreport](https://github.com/AstroGD/nodejs-discord.js-richpresencechanger/issues)
