@@ -13,6 +13,6 @@ Joine meinem Discord Server
 
 [Joinen](https://discord.me/astrogd)
 
-## Bugs oder FEhler gefunden?
+## Bugs oder Fehler gefunden?
 
 [Erstelle einen Bugreport](https://github.com/AstroGD/nodejs-discord.js-richpresencechanger/issues)
