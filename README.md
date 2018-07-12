@@ -6,7 +6,7 @@ Um zu starten, gehe bitte zum [wiki](https://github.com/AstroGD/nodejs-discord.j
 [Zum Wiki](https://github.com/AstroGD/nodejs-discord.js-richpresencechanger/wiki)
 
 ## Hast du Fragen?
-Schreibe mir eine Mail an support@astrogd.de
+Schreibe mir eine Mail an support@astrogd.eu
 
 ## Willst du direkt mit mir reden?
 Joine meinem Discord Server
