@@ -74,4 +74,4 @@ rpc.on('ready', () =>{
   log('Verbunden!');
   changepresence(startuppresence);
 });
-rpc.login(Clientid).catch(log.error);
+rpc.login({clientId:settings.clientid}).catch(log.error);
