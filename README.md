@@ -1,5 +1,5 @@
-# nodejs-discord.js-richpresencechanger
-A Tool to customize your own Rich Presence on Discord
+# AstroGD Rich Presence Changer
+Ein Tool, um deinen Spiel-Status je nach deinem Geschmack anzupassen
 
 Um zu starten, gehe bitte zum [wiki](https://github.com/AstroGD/nodejs-discord.js-richpresencechanger/wiki) und lies dir Dort die Dokumentation durch, damit du alles verstehst und es zu keinen Fehlern kommt.
 
