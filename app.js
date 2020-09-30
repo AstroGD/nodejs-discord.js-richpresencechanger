@@ -7,7 +7,6 @@ presences = require(`${__dirname}/presences.json`);
 
 //Settingsimport
 var ersterstatus = settings.initialstate;
-var Clientid = settings.clientid;
 var startuppresence = settings.presenceonstartup;
 var resettimerwhenstatechanges = settings.resettimerwhenstatechanges;
 

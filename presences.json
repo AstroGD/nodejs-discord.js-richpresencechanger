@@ -7,10 +7,10 @@
     "largeImageText": "Large Image Text"
   },
   "off":{
-    "details": "Abwesend :(",
+    "details": "Away :(",
     "largeImageKey": "astrogd_away",
     "smallImageKey": "small",
-    "smallImageText": "Der Stammtisch Team Mitglied\nDiscord.gg/st",
-    "largeImageText": "Leider bin ich gerade beschäftigt. Bitte schreibe mir eine DM, wenn du was brauchst ^^"
+    "smallImageText": "Software-, Backend- and Webdeveloper\nwww.astrogd.eu",
+    "largeImageText": "I'm busy at the moment but feel free to slide into my DMs anytime ^^"
   }
 }
